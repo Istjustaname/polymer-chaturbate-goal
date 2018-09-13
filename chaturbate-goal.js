@@ -69,4 +69,6 @@ class ChaturbateGoal extends PolymerElement {
   }
 }
 
-window.customElements.define('chaturbate-goal', ChaturbateGoal);
+if (!customElements.get('chaturbate-goal')) {
+    customElements.define('chaturbate-goal', ChaturbateGoal);
+}
