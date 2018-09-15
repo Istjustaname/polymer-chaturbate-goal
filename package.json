@@ -2,9 +2,7 @@
   "name": "@istjustaname/polymer-chaturbate-goal",
   "version": "1.0.0",
   "dependencies": {
-    "@polymer/polymer": "^3.0.5",
-    "@webcomponents/shadycss": "latest",
-    "@webcomponents/webcomponentsjs": "latest"
+    "@polymer/polymer": "latest"
   },
   "engines": {
     "npm": ">= 6.0.0"
